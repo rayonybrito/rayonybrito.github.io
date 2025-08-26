@@ -1,0 +1,22 @@
+.banner-container {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  background-color: #000;
+}
+
+.banner-logo {
+  width: 200px;
+  height: auto;
+}
+
+.banner-linha {
+  width: 100%;
+  height: 5px;
+  background-color: #fff;
+}

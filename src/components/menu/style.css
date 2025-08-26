@@ -1,0 +1,44 @@
+.menu-container {
+    width: 100%;
+    height: auto;
+    background-color: #000000;
+}
+.menu-section {
+    height: auto;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 20px;
+    color: #ffffff;
+}  
+
+.menu-aside {
+    height: auto;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ebd182;
+}
+
+.produto-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.preco {
+    color: #ebd182;
+}
