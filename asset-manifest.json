@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nome-do-repositorio/static/css/main.ce2766a9.css",
+    "main.js": "/nome-do-repositorio/static/js/main.71da5400.js",
+    "static/js/453.96453769.chunk.js": "/nome-do-repositorio/static/js/453.96453769.chunk.js",
+    "static/media/logoSemFundo.png": "/nome-do-repositorio/static/media/logoSemFundo.f12206ec8b97c0749841.png",
+    "index.html": "/nome-do-repositorio/index.html",
+    "main.ce2766a9.css.map": "/nome-do-repositorio/static/css/main.ce2766a9.css.map",
+    "main.71da5400.js.map": "/nome-do-repositorio/static/js/main.71da5400.js.map",
+    "453.96453769.chunk.js.map": "/nome-do-repositorio/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2766a9.css",
+    "static/js/main.71da5400.js"
+  ]
+}
